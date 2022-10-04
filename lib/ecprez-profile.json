@@ -1,10 +1,9 @@
 {
-    "name": ["Barry", "Cumbie"],
-    "pic": "https://www.una.edu/business/departments-majors/computer-science-information-systems/faculty/photos/cumbie.jpg",
-    "title": "Gatlin Distinguished Professor of Innovation, Associate Professor, Computer Science & Information Systems, University of North Alabama",
-    "github": ["barrycumbie", "https://github.com/barrycumbie"],
-    "background": "Auburn Univeristy: MIS '99, Masters MIS '04, Doctorate MGT of IS & Innovation '08",
-    "interests": "JAM Stack, Frisbee",
-    "side projects": "what? barely keeping up with my real ones.",
-    "must know dev tech": "Docker is super cool for containerization. Coggle is a new tool to try out."
+    "name": ["Ethan", "Criddle"],
+    "pic": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/c7/cc7ff273-e03b-516c-b151-22243530c98b/5bd89dc970417.image.jpg",
+    "title": "Certified Classic, Swim Club President",
+    "github": ["stalewhitebread", "https://github.com/stalewhitebread"],
+    "background": "High School Diploma, Interest in Computer Hardware",
+    "interests": "Organ Donor, Swimming",
+    "currently listening/watching": "Life of Pablo, Scissors Seven"
 }
