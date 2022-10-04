@@ -1,0 +1,10 @@
+{
+    "name": ["Barry", "Cumbie"],
+    "pic": "https://www.una.edu/business/departments-majors/computer-science-information-systems/faculty/photos/cumbie.jpg",
+    "title": "Gatlin Distinguished Professor of Innovation, Associate Professor, Computer Science & Information Systems, University of North Alabama",
+    "github": ["barrycumbie", "https://github.com/barrycumbie"],
+    "background": "Auburn Univeristy: MIS '99, Masters MIS '04, Doctorate MGT of IS & Innovation '08",
+    "interests": "JAM Stack, Frisbee",
+    "side projects": "what? barely keeping up with my real ones.",
+    "must know dev tech": "Docker is super cool for containerization. Coggle is a new tool to try out."
+}
