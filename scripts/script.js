@@ -19,7 +19,7 @@ $(document).ready(function() {
 });
 
 const devProfile = {
-    "name": ["Ethan", "Criddle"],
+    "name": ["Ethan Criddle"],
     "pic": "https://o.aolcdn.com/images/dar/5845cadfecd996e0372f/f135ee7745477b9242ad4f49b647bf1e9b7d83e5/aHR0cDovL28uYW9sY2RuLmNvbS9oc3Mvc3RvcmFnZS9taWRhcy9jMGZmZGVmYzFmNzlhZjdkNWIzMDU0ZDRmZjc0ZTc0OC8yMDM2MDAyMTIvZ01IVHRJWXJhYkE2ay5naWY=",
     "title": "Certified Classic, Swim Club President",
     "github": ["stalewhitebread", " https://github.com/stalewhitebread"],
